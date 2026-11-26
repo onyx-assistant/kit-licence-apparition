@@ -6,7 +6,7 @@ license: other
 
 # kit-licence-apparition — Onyx en invitée, jamais en fichier vendu
 
-Onyx est une peluche orange virtuelle créée dans un atelier à Montréal.
+Onyx est une peluche virtuelle créée dans un atelier à Montréal.
 Des studios de jeu pourraient un jour vouloir la faire **apparaître** dans
 leur univers. La position de l'atelier est simple et ne changera pas :
 
